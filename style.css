@@ -1,0 +1,37 @@
+body {
+
+    font-size: 15pt;
+
+}
+
+.pannel {
+
+  background-color: darkgrey;
+
+  text-align: center
+
+}
+
+a {
+
+  text-decoration: none;
+
+  color: ghostwhite;
+
+  background-color: red
+
+  
+
+  
+
+}
+
+h3 {
+
+  color: whitesmoke;
+
+  background-color:#25252D;
+
+  font-family: 'Anton', sans-serif;
+
+}
